@@ -21,6 +21,6 @@ Interests– Why I love tech and what inspires me
 Projects– Pepea Foundation and Voices Unheard
 Contact Form– For anyone who wants to connect or collaborate
 
-🌍 Live Site You can view my portolio here: 👉 https://Schevill3.github.io/schevill-portfolio/
+🌍 Live Site You can view my portolio here: 👉 https://Schevill3.github.io/schevill-portfolioo/
 
 📄 CV My CV is available for download on the portfolio in the Education section.
