@@ -1,26 +1,71 @@
-Schevill Lynder Portfolio
+# 🌐 Personal Portfolio Website
 
-This is my personal portfolio for the PLP Hackathon 1 – July 2025.
+## 📌 Overview
 
-🧠 About Me
+This is my personal portfolio website showcasing my work, skills, and professional journey in social impact, project coordination, and emerging technologies including AI and web development.
 
-Hi! I'm Schevill Lynder, a Sociology graduate who is starting to learn web development. I'm passionate about using technology to support social change and help communities.
+It serves as a central platform where I present my experience in sociology, program support, and consulting, alongside my growing technical skills.
 
-🛠️ What I Used This site is built with:
+---
 
-HTML
-CSS
-No frameworks or advanced tools were used — just the basics as I continue learning.
+## 🎯 Purpose
 
-📚 What’s Inside
+This portfolio was built to:
 
-About Me – A short intro about who I am
-Programming Languages– What I’m currently learning
-Education background – My degree,and CV
-Interests– Why I love tech and what inspires me
-Projects– Pepea Foundation and Voices Unheard
-Contact Form– For anyone who wants to connect or collaborate
+* Present my professional identity and career direction
+* Showcase projects related to social impact and technology
+* Highlight my skills in project coordination, research, and web development
+* Create a central hub for opportunities and collaboration
 
-🌍 Live Site You can view my portolio here: 👉 https://Schevill3.github.io/schevill-portfolioo/
+---
 
-📄 CV My CV is available for download on the portfolio in the Education section.
+## 🛠️ Tech Stack
+
+* HTML5
+* CSS3
+
+---
+
+## 📸 Preview
+
+![Portfolio Screenshot](images/screenshot.png)
+
+---
+
+## 🌍 Live Site
+
+👉 https://Schevill3.github.io
+
+---
+
+## 📚 Key Features
+
+* Clean, responsive design
+* Multi-section layout (About, Skills, Projects, Contact)
+* Personal branding aligned with social impact + tech
+* Beginner-friendly but structured codebase
+
+---
+
+## 🧠 What I Learned
+
+* Structuring a full website from scratch
+* Designing responsive layouts using CSS
+* Organizing content for personal branding
+* Translating professional identity into a digital format
+
+---
+
+## 🔮 Future Improvements
+
+* Add JavaScript interactivity
+* Improve mobile responsiveness
+* Add project case studies
+* Integrate API-based features or backend functionality
+
+---
+
+## 🤝 Contact
+
+* LinkedIn: www.linkedin.com/in/schevill-imbuhirah
+* Email: schevilllynder@gmail.com
